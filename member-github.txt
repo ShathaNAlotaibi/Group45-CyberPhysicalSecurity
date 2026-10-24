@@ -1,0 +1,11 @@
+Group name: Group 45
+Project name: CyberPhysicalSecurity
+
+Group members:
+1. Shatha Alotaibi - A0350688R
+2. Shouq Alqarni - A0352233N
+3. Reem Alqarawy - A0353748R
+4. Maha Alasmari - A0356640A
+
+GitHub project repository:
+https://github.com/ShathaNAlotaibi/Group45-CyberPhysicalSecurity
