@@ -1,0 +1,4 @@
+method,accuracy,macro_f1,high_recall,low_or_medium_escalated_to_high
+Random Forest,0.98125,0.9829808852479838,1.0,0
+Symbolic,0.9625,0.9483491243181166,0.9615384615384616,3
+Hybrid,0.9625,0.9529757756859225,1.0,3
